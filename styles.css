@@ -12,5 +12,7 @@
 }
 .player{
     background-image: url('./images/playerBg.jpg');
-    height: 100%;
+    height: 86vh;
+    background-size: cover;
+    padding-top: 72vh;
 }
